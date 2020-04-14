@@ -1,6 +1,6 @@
-#Web Speech API
+# Web Speech API
 
-#####Speech Recognition using Web Speech API.
+##### Speech Recognition using Web Speech API.
 
 Control player movement using the voice commands. 
 
